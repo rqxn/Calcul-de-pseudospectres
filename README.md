@@ -6,3 +6,6 @@ GUI.py est une interface graphique permettant de tester et comparer nos résulta
 Se demander si un complexe z est valeur propre d'une matrice A revient à se poser la question: la matrice z - A est-elle singulière ?
 Néanmoins, la notion de singularité étant très peu robuste en mathématiques, on est amenés à plutôt étudier la norme de la résolvante de A en ce point z.
 À la lumière de cette problématique, on introduit la notion de pseudospectre.
+
+# Comprendre le projet
+Le rapport permet de suivre le raisonnement et d'explorer les différentes approches utilisées dans l'objectif de découvrir la notion de pseudospectre.
